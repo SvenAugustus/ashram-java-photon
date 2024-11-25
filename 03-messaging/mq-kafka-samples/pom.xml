@@ -27,7 +27,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.8</java.version>
-    <kafka.version>2.3.1</kafka.version><!-- 对应 kafka 服务器版本 -->
+    <kafka.version>2.6.3</kafka.version><!-- 对应 kafka 服务器版本 -->
   </properties>
 
   <dependencies>
